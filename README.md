@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hacerpc330
 - 👀 I’m interested in progging
-- 🌱 I’m currently learning CSS and HTML
+- 🌱 I’m currently learning ...
 - 📫 How to reach me hacerpc330@gmail.com
 
 <!---
